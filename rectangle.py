@@ -1,5 +1,6 @@
-from math import sqrt
+﻿from math import sqrt
 
+#function which evaluate if it is a rectangle
 def is_rectangle(a, b, c, d, e):
     dico = {}
     
